@@ -1,4 +1,4 @@
-# CLAUDE.md
+# CLAUDE.md: Familiar
 
 Read BRIEF.md first. It's the source of truth for what we're building and why.
 
@@ -20,3 +20,11 @@ Read BRIEF.md first. It's the source of truth for what we're building and why.
 - 2026-11-18: First audience is small associations, guilds and nonprofits.
 - 2026-11-18: Build around content types, not layouts. Audience starters are presets on one shared system.
 - 2026-11-18: Look settings are limited to type, width and accent.
+- 2026-11-18: Named Familiar. This replaces the Sept 2026 web version (Next.js, Tiptap, indie makers). See "What changed" in BRIEF.md.
+
+## Ask before you
+
+- Change the design system
+- Add a dependency
+- Change a content type's fields
+- Restructure folders

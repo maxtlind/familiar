@@ -1,6 +1,6 @@
-# Site builder brief
+# Familiar brief
 
-Working name: [name TBD]. Part of Belleview Group.
+Part of Belleview Group.
 
 ## The idea
 
@@ -36,6 +36,24 @@ What visitors come for:
 3. **A quiet editor.** The app notices drift and suggests fixes. It never changes the live site without a Publish.
 4. **Audience starters are packaging.** "Association," "Nonprofit," "Church" and "Club" are presets that pick and relabel the same content types. One system to maintain.
 5. **Link out, don't rebuild.** Ticketing, payments and member logins stay with the tools people already use.
+
+## What changed from the first Familiar (Sept 2026)
+
+The first version of Familiar was a web app with a Notion-style block editor, built in Next.js and Tiptap. It was aimed at indie makers with lots of side projects and priced flat for unlimited sites. This version keeps the name and some core principles, but changes direction:
+
+| | First Familiar | This Familiar |
+|---|---|---|
+| Who | Indie makers with lots of side projects | Small associations, guilds, nonprofits |
+| Where | Web app | Native app for iPhone, iPad and Mac |
+| Pricing | Flat rate, unlimited sites | $5/month or less per site |
+| AI | "No AI, just quality" | AI as a quiet editor that suggests fixes, never as the thing that builds the site |
+| Design system | Familiar's own tokens | BelleviewOS |
+
+Principles that carry over:
+- Constrain structure, not expression.
+- Use names based on what something is for, not technical ones. Settings say "Reading" or "Standard," never pixel values or HTML tags.
+- Connect to good existing tools instead of rebuilding them.
+- Speed is part of the design.
 
 ## Content types (v1)
 
